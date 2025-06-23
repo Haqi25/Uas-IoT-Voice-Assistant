@@ -16,7 +16,7 @@ Voice Assistant berbasis ESP32, Python, dan Laravel.
   ```bash
   python server.py
 ### 3. Jalankan Proyek Laravel
-- Masuk ke folder proyek Laravel.
+- Masuk ke folder proyek Laravel yaitu voice_ai.
 - Jalankan:
   ```bash
   php artisan serve
